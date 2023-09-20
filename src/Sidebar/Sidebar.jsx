@@ -1,6 +1,6 @@
-import Category from "./Category/Category";
-import Price from "./Price/Price";
-import Colors from "./Colors/Colors";
+import Category from "./Category/Categories.jsx";
+import Price from "./Price/Price.jsx";
+import Colors from "./Colors/Color.jsx";
 import "./Sidebar.css";
 
 const Sidebar = ({ handleChange }) => {

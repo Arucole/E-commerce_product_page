@@ -3,8 +3,8 @@ import { useState } from "react";
 import Navigation from "./Navigation/Nav";
 import Products from "./Products/products";
 import products from "./db/data";
-import Recommended from "./Recommended/recommended";
-import Sidebar from "./Sidebar/Sidebar";
+import Recommended from "./Recommended/recommended.jsx";
+import Sidebar from "./Sidebar/Sidebar.jsx";
 import Card from "./Components/Card";
 import "./index.css";
 
